@@ -3190,6 +3190,10 @@ hasbin@^1.2.3:
   dependencies:
     async "~1.5"
 
+haversine@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/haversine/-/haversine-1.1.0.tgz#0b2380cb6d9c10e9f1224fc2b513cc61018d5ff7"
+
 hoek@2.x.x:
   version "2.16.3"
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-2.16.3.tgz#20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
@@ -4730,7 +4734,7 @@ mkdirp@*, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@2.x.x, moment@^2.10.6:
+moment@2.x.x, moment@^2.10.6, moment@^2.22.2:
   version "2.22.2"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
 
